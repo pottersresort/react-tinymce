@@ -1,6 +1,6 @@
 {
-  "name": "react-tinymce",
-  "version": "0.7.0",
+  "name": "@pottersresort/react-tinymce",
+  "version": "0.0.1",
   "description": "React TinyMCE component",
   "main": "lib/main.js",
   "scripts": {
